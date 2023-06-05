@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Tsukimi+Rounded:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Poppins:ital@1&family=Tsukimi+Rounded:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Jost:ital,wght@1,300&family=Poppins:ital@1&family=Tsukimi+Rounded:wght@700&display=swap');
+
+
+
+header{
+    margin: -35px;
+    text-align: center; 
+    font-family: 'Tsukimi Rounded', sans-serif;
+    font-size: 20px;
+    background-image:url(./img\ pizzas\ completo.jpg);
+    
+    
+}
+
+h2{
+    color: green;
+}
+
+body{
+    margin:0;
+    padding: 0;    
+    background-image: url(./background\ site2.jpeg);
+    
+}
+#card{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    margin: 10px;
+    
+    
+}
+
+.marguerita{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+    
+}
+
+.ingr1{
+    
+    font-family: 'Arvo', serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    
+}
+
+.calabresa{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+    
+}
+
+.ingr2{
+    font-family: 'Arvo', serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+.portuguesa{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+.ingr3{
+    font-family: 'Arvo', serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+.check1{
+    font-family: 'Arvo', serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+.check2{
+    font-family: 'Arvo', serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+.check3{
+    font-family: 'Arvo', serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+#linha-horizontal-rodapé{
+    border: 1px solid black;
+    margin: 5px;
+}
+.pedido{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    border-radius: 8px;
+    background-color: rgb(211, 208, 12);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.clique{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.imagem_pizzaiolo{
+    float: inline-start;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    
+}
