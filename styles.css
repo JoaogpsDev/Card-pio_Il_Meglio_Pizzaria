@@ -13,7 +13,7 @@ header{
     text-align: center; 
     font-family: 'Tsukimi Rounded', sans-serif;
     font-size: 20px;
-    background-image:url(./img\ pizzas\ completo.jpg);
+    background-image:url(./medias/img\ pizzas\ completo.jpg);
     
     
 }
@@ -25,7 +25,7 @@ h2{
 body{
     margin:0;
     padding: 0;    
-    background-image: url(./background\ site2.jpeg);
+    background-image: url(./medias/background\ site2.jpeg);
     
 }
 #card{
